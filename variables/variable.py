@@ -17,3 +17,9 @@ x = y = z = "The same string"
 print (x)
 print (y)
 print (z)
+
+d = True
+e = False
+
+print (d)
+print (e)
