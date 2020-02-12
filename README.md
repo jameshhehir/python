@@ -8,4 +8,4 @@
 
 - [x] Python Core and Control Statements
 - [ ] OOP Concepts
-- [ ] Other Concepts
+- [ ] Other Concepts (STL file experiments)
